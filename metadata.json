@@ -1,0 +1,8 @@
+{
+  "name": "Srdjan AI Agent",
+  "description": "A high-end AI companion capable of coding, video editing, and real-time voice interaction.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
